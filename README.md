@@ -1,11 +1,17 @@
-﻿#  无极AI漫剧工业化指令集 V5
+﻿<p align="center">
+  <img src="https://img.shields.io/badge/VERSION-v5.0-blue?style=flat-square" alt="Version">
+  <img src="https://img.shields.io/badge/LICENSE-MIT-green?style=flat-square" alt="License">
+</p>
 
-## Wuji AI Motion Comic Industrialization Prompt Set V5
+<h1 align="center"> 无极AI漫剧工业化指令集 V5</h1>
 
-**一句话 / One Sentence:**
-让AI成为你的漫剧工业化导演，六阶段标准化生产流程。
+<h2 align="center">Wuji AI Motion Comic Industrialization Prompt Set V5</h2>
 
-Make AI your motion comic industrial director, six-stage standardized production process.
+<p align="center">
+  <b>一句话 / One Sentence:</b><br>
+  让AI成为你的漫剧工业化导演，六阶段标准化生产流程。<br>
+  Make AI your motion comic industrial director, six-stage standardized production process.
+</p>
 
 ---
 
@@ -20,7 +26,7 @@ Make AI your motion comic industrial director, six-stage standardized production
 -  **标准化流程** - 六阶段严格流程，严禁跳步
 -  **工业化输出** - 所有提示词服从后期制作需求
 -  **可视化交付** - HTML看板+纯文字双模输出
--  **技术协议化** - 抽象风格转化为AI可执行参数
+- � **技术协议化** - 抽象风格转化为AI可执行参数
 
 ### English
 
@@ -29,7 +35,7 @@ Make AI your motion comic industrial director, six-stage standardized production
 **Key Advantages:**
 
 - � **Standardized Process** - Six-stage strict workflow, no skipping
-- ⚡ **Industrial Output** - All prompts obey post-production requirements
+-  **Industrial Output** - All prompts obey post-production requirements
 -  **Visual Delivery** - HTML dashboard + plain text dual-mode output
 -  **Technical Protocol** - Abstract styles converted to AI-executable parameters
 
@@ -65,7 +71,7 @@ Make AI your motion comic industrial director, six-stage standardized production
 
 ### 中文
 
--  **强制可视化协议** - HTML+Tailwind+Lucide图标输出
+- ✅ **强制可视化协议** - HTML+Tailwind+Lucide图标输出
 -  **防幻想机制** - 严格基于剧本分析，不发散
 -  **资产ID规范** - 统一中文标识符系统
 -  **动态解耦逻辑** - 静态层（生图）+ 动态层（视频）双层构建
@@ -128,6 +134,16 @@ Make AI your motion comic industrial director, six-stage standardized production
  **注意 / Note**: 本仓库仅包含项目介绍，完整指令集请从上方网盘链接下载。
 
 This repository only contains project introduction. For the complete prompt set, please download from the link above.
+
+---
+
+## 赞赏 / Donate
+
+如果这个项目对您有帮助，欢迎赞赏支持！
+
+<p align="center">
+  <img src="赞赏码.jpg" width="300" alt="赞赏码">
+</p>
 
 ---
 
